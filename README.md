@@ -54,7 +54,7 @@ flowdesk/
 
 ## ⚙️ Instalación local
 
-```bash
+
 # Clonar repo
 git clone https://github.com/26antonioruiz/FlowDesk.git
 
